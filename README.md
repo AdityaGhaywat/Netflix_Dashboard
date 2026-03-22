@@ -51,7 +51,7 @@ Netflix Movies & TV Shows dataset
 - Grouped runtime into Short, Medium, and Long  
 - Built a **popularity index** combining score and votes  
 
-📄 Reference: :contentReference[oaicite:0]{index=0}  
+ 
 
 ---
 
@@ -61,7 +61,6 @@ Netflix Movies & TV Shows dataset
 - Total content count  
 - Average runtime  
 
-📄 Reference: :contentReference[oaicite:1]{index=1}  
 
 ---
 
