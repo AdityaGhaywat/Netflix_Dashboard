@@ -20,16 +20,16 @@ Netflix Movies & TV Shows dataset
 ##  Dashboard Preview
 
 ###  Catalog Overview
-![Catalog](ScreenShots/Catalog%20Overview.png)
+![Catalog](Dashboards/Catalog%20Overview.png)
 
 ###  Content Quality & Trust
-![Quality](ScreenShots/Content%20Quality.png)
+![Quality](Dashboards/Content%20Quality.png)
 
 ###  Patterns & Segments
-![Patterns](ScreenShots/Patterns%20%26%20Segments.png)
+![Patterns](Dashboards/Patterns%20%26%20Segments.png)
 
 ###  Insights Over Time
-![Time](ScreenShots/Timely%20Insights.png)
+![Time](Dashboards/Timely%20Insights.png)
 
 ---
 
