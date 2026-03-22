@@ -1,38 +1,39 @@
-# Netflix Content Analysis Dashboard (Power BI)
+#  Netflix Content Analysis Dashboard (Power BI)
 
-## Objective
+##  Objective
 To analyze Netflix’s content catalog and uncover patterns in content distribution, audience targeting, and content quality using IMDb-based metrics.
 
 ---
 
-## Tools Used
+##  Tools Used
 - Power BI  
 - Excel 
 
 ---
 
-## Dataset
+##  Dataset
 Netflix Movies & TV Shows dataset  
+  
 
 ---
 
-## Dashboard Preview
+##  Dashboard Preview
 
-### Catalog Overview
+###  Catalog Overview
 ![Catalog](ScreenShots/Catalog%20Overview.png)
 
-### Content Quality & Trust
+###  Content Quality & Trust
 ![Quality](ScreenShots/Content%20Quality.png)
 
-### Patterns & Segments
+###  Patterns & Segments
 ![Patterns](ScreenShots/Patterns%20%26%20Segments.png)
 
-### Insights Over Time
+###  Insights Over Time
 ![Time](ScreenShots/Timely%20Insights.png)
 
 ---
 
-## Key Insights
+##  Key Insights
 - Movies dominate the platform compared to TV Shows  
 - Majority content falls into the **“Mid-age” bucket (5–15 years old)**  
 - IMDb scores are more reliable for content with higher vote counts  
@@ -41,26 +42,30 @@ Netflix Movies & TV Shows dataset
 
 ---
 
-## Data Modeling & Transformations
+##  Data Modeling & Transformations
 
-### Calculated Columns
+###  Calculated Columns
 - Created **content age** and categorized into New / Mid / Old  
 - Classified IMDb reliability based on vote threshold  
 - Segmented audience into Kids, Teen, Adult, and Unrated  
 - Grouped runtime into Short, Medium, and Long  
 - Built a **popularity index** combining score and votes  
 
-Reference: :contentReference[oaicite:0]{index=0}  
+📄 Reference: :contentReference[oaicite:0]{index=0}  
 
 ---
 
-### Key Measures (DAX)
+###  Key Measures (DAX)
 - Average IMDb Score (Reliable content only)  
 - Weighted IMDb Score (based on votes)  
 - Total content count  
 - Average runtime  
 
 📄 Reference: :contentReference[oaicite:1]{index=1}  
+
+---
+
+
 
 
 
