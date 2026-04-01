@@ -29,7 +29,7 @@ Netflix Movies & TV Shows dataset
 ![Patterns](Dashboards/Patterns%20%26%20Segments.png)
 
 ###  Insights Over Time
-![Time](Dashboards/TimelyInsights.png)
+![Time](Dashboards/Timely%20Insights.png)
 
 ---
 
