@@ -7,7 +7,7 @@ To analyze Netflix’s content catalog and uncover patterns in content distribut
 
 ##  Tools Used
 - Power BI  
-- Excel 
+- Excel
 
 ---
 
